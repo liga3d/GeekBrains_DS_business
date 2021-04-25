@@ -1,0 +1,16 @@
+pandas
+numpy
+re
+pymorphy2
+nltk
+razdel
+scikit-learn
+matplotlib
+seaborn
+random
+catboost
+dill
+urllib
+json
+time
+flask
