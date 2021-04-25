@@ -9,3 +9,5 @@
 
 Модели на первом уровне: LogisticRegression + среднее по предсказанным вероятностям всех моделей и стандартное отклонение
 Модель на втором уровне: CatBoostClassifier
+
+Комментарии для теста работоспособности модели спарсил с кулинарного канала https://www.youtube.com/user/rukremov используя googleapiclient.discovery
